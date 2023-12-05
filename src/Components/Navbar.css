@@ -1,0 +1,28 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon {
+    font-size: 2rem;
+    color: #6900ff;
+}
+
+.purple {
+    color: #6900ff;
+}
+.madeWithLove {
+    animation: colorChange 2s infinite alternate;
+    margin-left: 630px;
+    
+}
+
+@keyframes colorChange {
+    0% {
+        color: #ff0000; /* Start color */
+    }
+    100% {
+        color: #00ff00; /* End color */
+    }
+}
