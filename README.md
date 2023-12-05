@@ -19,11 +19,8 @@ Welcome to CryptoTracker, a ReactJS application designed for tracking real-time 
 ## Getting Started
 
 1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/crypto-tracker.git
+ 
 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
